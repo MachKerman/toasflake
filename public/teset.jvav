@@ -1,0 +1,11 @@
+JvavBegin
+
+iNt mAiN(){ 
+    cHaR ch = 'r'; 
+    iNt n;         
+    input n;     
+    output n magic 10;  
+    goBack ZERO;   
+}
+
+JvavEnd
